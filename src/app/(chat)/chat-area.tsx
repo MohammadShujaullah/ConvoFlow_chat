@@ -105,8 +105,8 @@ export default function ChatArea({
     setTyping({ conversationId, userId: currentUserId as Id<"users"> });
   };
 
-  const handleDeleteMessage = async (messageId: Id<"messages">) => {
-    await deleteMessage({ messageId });
+  const handleDeleteMessage = (messageId: string) => {
+    deleteMessage({ messageId: messageId as Id<"messages"> });
   };
 
   const otherUserId = conversation?.participantIds.find(

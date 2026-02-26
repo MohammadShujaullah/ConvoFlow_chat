@@ -49,8 +49,9 @@ export default function Sidebar({ currentUserId, onSelectConversation }: Sidebar
       {showSearch ? (
         <UserSearch
           currentUserId={me._id}
-          onSelect={(userId: any) => {
+          onSelect={(conversationId: string) => {
             setShowSearch(false);
+            onSelectConversation(conversationId);
           }}
         />
       ) : (

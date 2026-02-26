@@ -107,7 +107,7 @@ export default function ChatLayout() {
       <div className={`flex-1 flex flex-col ${showSidebar ? "hidden md:flex" : "flex"}`}>
         {selectedConversationId ? (
           <ChatArea
-            conversationId={selectedConversationId}
+            conversationId={selectedConversationId as any}
             currentUserId={convexUserId}
             onBack={() => {
               setSelectedConversationId(null);

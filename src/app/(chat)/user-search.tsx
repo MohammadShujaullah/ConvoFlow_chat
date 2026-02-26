@@ -10,7 +10,7 @@ import { ArrowLeft } from "lucide-react";
 
 interface UserSearchProps {
   currentUserId: Id<"users">;
-  onSelect: (userId: Id<"users">) => void;
+  onSelect: (conversationId: string) => void;
 }
 
 export default function UserSearch({
@@ -31,7 +31,9 @@ export default function UserSearch({
       userId: currentUserId,
       otherUserId: userId,
     });
-    onSelect(conv._id);
+    if (conv) {
+      onSelect(conv._id);
+    }
   };
 
   return (
@@ -53,7 +55,7 @@ export default function UserSearch({
           </div>
         )}
 
-        {searchResults === "skip" && null}
+        {searchResults && !Array.isArray(searchResults) && null}
         {Array.isArray(searchResults) && searchResults.length === 0 && searchText && (
           <div className="p-4 text-center text-gray-500 animate-fade-in">
             No users found
