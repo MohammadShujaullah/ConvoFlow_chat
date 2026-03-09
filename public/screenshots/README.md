@@ -7,6 +7,7 @@
 - `typing indicator.png` - Typing indicator feature
 - `unread message.png` - Unread message badges
 - `mobile layout.png` - Mobile responsive layout
+- `layout for mobile 2.png` - Mobile responsive layout 2
 
 ## Markdown for Main README
 
@@ -16,4 +17,5 @@
 ![Typing Indicator](public/screenshots/typing%20indicator.png)
 ![Unread Message Badge](public/screenshots/unread%20message.png)
 ![Mobile Layout](public/screenshots/mobile%20layout.png)
+![Mobile Layout 2](public/screenshots/layout%20for%20mobile%202.png)
 ```

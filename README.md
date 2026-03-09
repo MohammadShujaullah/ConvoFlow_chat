@@ -28,6 +28,8 @@ A modern, WhatsApp-inspired real-time chat application built with Next.js, Conve
 
 ![Mobile Layout](public/screenshots/mobile%20layout.png)
 
+![Mobile Layout 2](public/screenshots/layout%20for%20mobile%202.png)
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js 16 (App Router), TypeScript, Tailwind CSS v4
