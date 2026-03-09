@@ -16,6 +16,18 @@ A modern, WhatsApp-inspired real-time chat application built with Next.js, Conve
 - 🔄 Automatic user sync via webhooks
 - 📊 Smart scroll with "New messages" toast
 
+## 📸 Screenshots
+
+![Real-time Chat](public/screenshots/Screenshot%202026-03-09%20132220.png)
+
+![User Search](public/screenshots/search.png)
+
+![Typing Indicator](public/screenshots/typing%20indicator.png)
+
+![Unread Message Badge](public/screenshots/unread%20message.png)
+
+![Mobile Layout](public/screenshots/mobile%20layout%202.png)
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js 16 (App Router), TypeScript, Tailwind CSS v4
