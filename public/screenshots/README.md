@@ -7,7 +7,7 @@
 - `typing indicator.png` - Typing indicator feature
 - `unread message.png` - Unread message badges
 - `moile layout 2.png` - Mobile responsive layout
-
+![alt text](<mobile layout.png>)
 ## Markdown for Main README
 
 ```md
