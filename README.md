@@ -18,17 +18,17 @@ A modern, WhatsApp-inspired real-time chat application built with Next.js, Conve
 
 ## 📸 Screenshots
 
-![Real-time Chat](public/screenshots/Screenshot%202026-03-09%20132220.png)
+<img src="public/screenshots/Screenshot%202026-03-09%20132220.png" alt="Real-time Chat" width="600"/>
 
-![User Search](public/screenshots/search.png)
+<img src="public/screenshots/search.png" alt="User Search" width="600"/>
 
-![Typing Indicator](public/screenshots/typing%20indicator.png)
+<img src="public/screenshots/typing%20indicator.png" alt="Typing Indicator" width="600"/>
 
-![Unread Message Badge](public/screenshots/unread%20message.png)
+<img src="public/screenshots/unread%20message.png" alt="Unread Message Badge" width="600"/>
 
-![Mobile Layout](public/screenshots/mobile%20layout.png)
+<img src="public/screenshots/mobile%20layout.png" alt="Mobile Layout" width="300"/>
 
-![Mobile Layout 2](public/screenshots/layout%20for%20mobile%202.png)
+<img src="public/screenshots/layout%20for%20mobile%202.png" alt="Mobile Layout 2" width="300"/>
 
 ## 🛠️ Tech Stack
 

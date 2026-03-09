@@ -12,10 +12,10 @@
 ## Markdown for Main README
 
 ```md
-![Real-time Chat](public/screenshots/Screenshot%202026-03-09%20132220.png)
-![User Search](public/screenshots/search.png)
-![Typing Indicator](public/screenshots/typing%20indicator.png)
-![Unread Message Badge](public/screenshots/unread%20message.png)
-![Mobile Layout](public/screenshots/mobile%20layout.png)
-![Mobile Layout 2](public/screenshots/layout%20for%20mobile%202.png)
+<img src="public/screenshots/Screenshot%202026-03-09%20132220.png" alt="Real-time Chat" width="600"/>
+<img src="public/screenshots/search.png" alt="User Search" width="600"/>
+<img src="public/screenshots/typing%20indicator.png" alt="Typing Indicator" width="600"/>
+<img src="public/screenshots/unread%20message.png" alt="Unread Message Badge" width="600"/>
+<img src="public/screenshots/mobile%20layout.png" alt="Mobile Layout" width="300"/>
+<img src="public/screenshots/layout%20for%20mobile%202.png" alt="Mobile Layout 2" width="300"/>
 ```
