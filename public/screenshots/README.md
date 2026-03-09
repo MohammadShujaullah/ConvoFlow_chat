@@ -6,8 +6,8 @@
 - `search.png` - User search functionality
 - `typing indicator.png` - Typing indicator feature
 - `unread message.png` - Unread message badges
-- `moile layout 2.png` - Mobile responsive layout
-![alt text](<mobile layout.png>)
+- `mobile layout.png` - Mobile responsive layout
+
 ## Markdown for Main README
 
 ```md
@@ -15,5 +15,5 @@
 ![User Search](public/screenshots/search.png)
 ![Typing Indicator](public/screenshots/typing%20indicator.png)
 ![Unread Message Badge](public/screenshots/unread%20message.png)
-![Mobile Layout](public/screenshots/moile%20layout%202.png)
+![Mobile Layout](public/screenshots/mobile%20layout.png)
 ```

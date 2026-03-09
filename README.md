@@ -26,7 +26,7 @@ A modern, WhatsApp-inspired real-time chat application built with Next.js, Conve
 
 ![Unread Message Badge](public/screenshots/unread%20message.png)
 
-![Mobile Layout](public/screenshots/moile%20layout%202.png)
+![Mobile Layout](public/screenshots/mobile%20layout.png)
 
 ## 🛠️ Tech Stack
 
